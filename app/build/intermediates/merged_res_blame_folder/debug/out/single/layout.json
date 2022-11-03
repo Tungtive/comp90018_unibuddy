@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "D:\\android project\\COMP90018Unibuddy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\finder_campus_fragment.xml",
+        "source": "D:\\android project\\COMP90018Unibuddy\\app\\src\\main\\res\\layout\\finder_campus_fragment.xml"
+    },
+    {
+        "merged": "D:\\android project\\COMP90018Unibuddy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\chat_left_image.xml",
+        "source": "D:\\android project\\COMP90018Unibuddy\\app\\src\\main\\res\\layout\\chat_left_image.xml"
+    },
+    {
+        "merged": "D:\\android project\\COMP90018Unibuddy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_finder_profile.xml",
+        "source": "D:\\android project\\COMP90018Unibuddy\\app\\src\\main\\res\\layout\\activity_finder_profile.xml"
+    },
+    {
+        "merged": "D:\\android project\\COMP90018Unibuddy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\share_fragment.xml",
+        "source": "D:\\android project\\COMP90018Unibuddy\\app\\src\\main\\res\\layout\\share_fragment.xml"
+    },
+    {
+        "merged": "D:\\android project\\COMP90018Unibuddy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_finder.xml",
+        "source": "D:\\android project\\COMP90018Unibuddy\\app\\src\\main\\res\\layout\\fragment_finder.xml"
+    },
+    {
+        "merged": "D:\\android project\\COMP90018Unibuddy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\chat_system.xml",
+        "source": "D:\\android project\\COMP90018Unibuddy\\app\\src\\main\\res\\layout\\chat_system.xml"
+    },
+    {
+        "merged": "D:\\android project\\COMP90018Unibuddy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_my_friends.xml",
+        "source": "D:\\android project\\COMP90018Unibuddy\\app\\src\\main\\res\\layout\\item_my_friends.xml"
+    },
+    {
+        "merged": "D:\\android project\\COMP90018Unibuddy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "D:\\android project\\COMP90018Unibuddy\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\android project\\COMP90018Unibuddy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_user.xml",
+        "source": "D:\\android project\\COMP90018Unibuddy\\app\\src\\main\\res\\layout\\fragment_user.xml"
+    },
+    {
+        "merged": "D:\\android project\\COMP90018Unibuddy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_photo_album.xml",
+        "source": "D:\\android project\\COMP90018Unibuddy\\app\\src\\main\\res\\layout\\activity_photo_album.xml"
+    },
+    {
+        "merged": "D:\\android project\\COMP90018Unibuddy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\finder_profile_fragment.xml",
+        "source": "D:\\android project\\COMP90018Unibuddy\\app\\src\\main\\res\\layout\\finder_profile_fragment.xml"
+    },
+    {
+        "merged": "D:\\android project\\COMP90018Unibuddy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_chat.xml",
+        "source": "D:\\android project\\COMP90018Unibuddy\\app\\src\\main\\res\\layout\\fragment_chat.xml"
+    },
+    {
+        "merged": "D:\\android project\\COMP90018Unibuddy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_chat_details.xml",
+        "source": "D:\\android project\\COMP90018Unibuddy\\app\\src\\main\\res\\layout\\activity_chat_details.xml"
+    },
+    {
+        "merged": "D:\\android project\\COMP90018Unibuddy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_nine_grid_photo.xml",
+        "source": "D:\\android project\\COMP90018Unibuddy\\app\\src\\main\\res\\layout\\item_nine_grid_photo.xml"
+    },
+    {
+        "merged": "D:\\android project\\COMP90018Unibuddy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_me.xml",
+        "source": "D:\\android project\\COMP90018Unibuddy\\app\\src\\main\\res\\layout\\fragment_me.xml"
+    },
+    {
+        "merged": "D:\\android project\\COMP90018Unibuddy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_welcome.xml",
+        "source": "D:\\android project\\COMP90018Unibuddy\\app\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "D:\\android project\\COMP90018Unibuddy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\me_fragment.xml",
+        "source": "D:\\android project\\COMP90018Unibuddy\\app\\src\\main\\res\\layout\\me_fragment.xml"
+    },
+    {
+        "merged": "D:\\android project\\COMP90018Unibuddy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_head_select.xml",
+        "source": "D:\\android project\\COMP90018Unibuddy\\app\\src\\main\\res\\layout\\fragment_head_select.xml"
+    },
+    {
+        "merged": "D:\\android project\\COMP90018Unibuddy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_my_friends_activity.xml",
+        "source": "D:\\android project\\COMP90018Unibuddy\\app\\src\\main\\res\\layout\\activity_my_friends_activity.xml"
+    },
+    {
+        "merged": "D:\\android project\\COMP90018Unibuddy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\finder_list_fragment.xml",
+        "source": "D:\\android project\\COMP90018Unibuddy\\app\\src\\main\\res\\layout\\finder_list_fragment.xml"
+    },
+    {
+        "merged": "D:\\android project\\COMP90018Unibuddy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\chat_left_text.xml",
+        "source": "D:\\android project\\COMP90018Unibuddy\\app\\src\\main\\res\\layout\\chat_left_text.xml"
+    },
+    {
+        "merged": "D:\\android project\\COMP90018Unibuddy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_photo.xml",
+        "source": "D:\\android project\\COMP90018Unibuddy\\app\\src\\main\\res\\layout\\item_photo.xml"
+    },
+    {
+        "merged": "D:\\android project\\COMP90018Unibuddy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_albums.xml",
+        "source": "D:\\android project\\COMP90018Unibuddy\\app\\src\\main\\res\\layout\\activity_albums.xml"
+    },
+    {
+        "merged": "D:\\android project\\COMP90018Unibuddy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_share.xml",
+        "source": "D:\\android project\\COMP90018Unibuddy\\app\\src\\main\\res\\layout\\fragment_share.xml"
+    },
+    {
+        "merged": "D:\\android project\\COMP90018Unibuddy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_chat_list.xml",
+        "source": "D:\\android project\\COMP90018Unibuddy\\app\\src\\main\\res\\layout\\item_chat_list.xml"
+    },
+    {
+        "merged": "D:\\android project\\COMP90018Unibuddy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\loading_dialog.xml",
+        "source": "D:\\android project\\COMP90018Unibuddy\\app\\src\\main\\res\\layout\\loading_dialog.xml"
+    },
+    {
+        "merged": "D:\\android project\\COMP90018Unibuddy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_photo.xml",
+        "source": "D:\\android project\\COMP90018Unibuddy\\app\\src\\main\\res\\layout\\activity_photo.xml"
+    },
+    {
+        "merged": "D:\\android project\\COMP90018Unibuddy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_question.xml",
+        "source": "D:\\android project\\COMP90018Unibuddy\\app\\src\\main\\res\\layout\\fragment_question.xml"
+    },
+    {
+        "merged": "D:\\android project\\COMP90018Unibuddy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\finder_list_student_list.xml",
+        "source": "D:\\android project\\COMP90018Unibuddy\\app\\src\\main\\res\\layout\\finder_list_student_list.xml"
+    },
+    {
+        "merged": "D:\\android project\\COMP90018Unibuddy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_my_moment.xml",
+        "source": "D:\\android project\\COMP90018Unibuddy\\app\\src\\main\\res\\layout\\activity_my_moment.xml"
+    },
+    {
+        "merged": "D:\\android project\\COMP90018Unibuddy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\finder_top_navigator.xml",
+        "source": "D:\\android project\\COMP90018Unibuddy\\app\\src\\main\\res\\layout\\finder_top_navigator.xml"
+    },
+    {
+        "merged": "D:\\android project\\COMP90018Unibuddy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_person_info_guide.xml",
+        "source": "D:\\android project\\COMP90018Unibuddy\\app\\src\\main\\res\\layout\\activity_person_info_guide.xml"
+    },
+    {
+        "merged": "D:\\android project\\COMP90018Unibuddy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_user_info.xml",
+        "source": "D:\\android project\\COMP90018Unibuddy\\app\\src\\main\\res\\layout\\activity_user_info.xml"
+    },
+    {
+        "merged": "D:\\android project\\COMP90018Unibuddy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_photo_.xml",
+        "source": "D:\\android project\\COMP90018Unibuddy\\app\\src\\main\\res\\layout\\item_photo_.xml"
+    },
+    {
+        "merged": "D:\\android project\\COMP90018Unibuddy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_moments.xml",
+        "source": "D:\\android project\\COMP90018Unibuddy\\app\\src\\main\\res\\layout\\item_moments.xml"
+    },
+    {
+        "merged": "D:\\android project\\COMP90018Unibuddy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_person_basic_info.xml",
+        "source": "D:\\android project\\COMP90018Unibuddy\\app\\src\\main\\res\\layout\\fragment_person_basic_info.xml"
+    },
+    {
+        "merged": "D:\\android project\\COMP90018Unibuddy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\finder_campus_list.xml",
+        "source": "D:\\android project\\COMP90018Unibuddy\\app\\src\\main\\res\\layout\\finder_campus_list.xml"
+    },
+    {
+        "merged": "D:\\android project\\COMP90018Unibuddy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_my_quiz.xml",
+        "source": "D:\\android project\\COMP90018Unibuddy\\app\\src\\main\\res\\layout\\activity_my_quiz.xml"
+    },
+    {
+        "merged": "D:\\android project\\COMP90018Unibuddy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_add_moment.xml",
+        "source": "D:\\android project\\COMP90018Unibuddy\\app\\src\\main\\res\\layout\\activity_add_moment.xml"
+    },
+    {
+        "merged": "D:\\android project\\COMP90018Unibuddy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "D:\\android project\\COMP90018Unibuddy\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\android project\\COMP90018Unibuddy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\finder_filter_fragment.xml",
+        "source": "D:\\android project\\COMP90018Unibuddy\\app\\src\\main\\res\\layout\\finder_filter_fragment.xml"
+    },
+    {
+        "merged": "D:\\android project\\COMP90018Unibuddy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_info_school.xml",
+        "source": "D:\\android project\\COMP90018Unibuddy\\app\\src\\main\\res\\layout\\fragment_info_school.xml"
+    },
+    {
+        "merged": "D:\\android project\\COMP90018Unibuddy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\caht_right_text.xml",
+        "source": "D:\\android project\\COMP90018Unibuddy\\app\\src\\main\\res\\layout\\caht_right_text.xml"
+    },
+    {
+        "merged": "D:\\android project\\COMP90018Unibuddy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_info_status.xml",
+        "source": "D:\\android project\\COMP90018Unibuddy\\app\\src\\main\\res\\layout\\fragment_info_status.xml"
+    },
+    {
+        "merged": "D:\\android project\\COMP90018Unibuddy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\chat_right_image.xml",
+        "source": "D:\\android project\\COMP90018Unibuddy\\app\\src\\main\\res\\layout\\chat_right_image.xml"
+    }
+]
